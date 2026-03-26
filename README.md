@@ -1,8 +1,7 @@
-# 📊 Layoffs Data Analysis (SQL Project)
+# 📊 Global Layoffs Analysis (SQL + Power BI)
 
 ## 🔍 Project Overview
-This project analyzes global layoffs data using SQL to uncover trends, patterns, and key business insights.  
-The dataset was cleaned and transformed before performing exploratory data analysis (EDA).
+This project analyzes global layoffs data using SQL for data cleaning and exploratory data analysis (EDA), and Power BI for building an interactive dashboard.
 
 ---
 
@@ -19,7 +18,7 @@ The dataset contains:
 ## 🛠️ Tools & Technologies
 - SQL Server (SSMS)
 - Excel
-- GitHub
+- Power BI
 
 ---
 
@@ -66,9 +65,7 @@ The dataset contains:
 ---
 
 ## 📂 Project Structure
-- `data/` → Raw dataset  
-- `sql/` → SQL scripts (data cleaning + EDA)  
-- `outputs/` → Query result screenshots  
+data/ sql/ powerbi/ outputs/ README.md
 
 ---
 
